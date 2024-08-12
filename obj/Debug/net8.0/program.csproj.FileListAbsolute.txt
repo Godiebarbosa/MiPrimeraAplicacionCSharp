@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Documents\Diego\Nueva carpeta\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Diego\Nueva carpeta\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Diego\Nueva carpeta\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Diego\Nueva carpeta\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
